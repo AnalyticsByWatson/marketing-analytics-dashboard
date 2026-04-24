@@ -64,10 +64,14 @@ The music streaming market is driven by strategic, high-impact events that captu
 ## Tools
 
 Excel (Pivot Tables, Time-Series Analysis)
-Data Visualization
 
 ---
 
-## Visualization
+## Visualizations  
+
+![Spotify Trends](SpotifyData.jpeg)  
+
+![Platform Comparison](SpotifyData2.jpeg)  
+
 
 
